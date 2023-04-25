@@ -42,19 +42,19 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Full Stack Web Developer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React.js Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "MERN Stack Developer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Software Developer",
       icon: creator,
     },
   ];
@@ -116,50 +116,52 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Customer Service/Cash Supervisor",
+      company_name: "Shoppers Drug Mart",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "August 2011 - March 2020",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Maximized donation and sales, leading to the achievement of the store's overall goals. ",
+        "Provided a positive customer experience with courteous service while managing transactions by scanning items, applying discounts and processing payments",
+        "Proficient in cash handling, product knowledge and understanding of customer base.",
+        "Trained newly hired staff on customer service protocols, issued refunds/exchanges and handled customer care; answered inquiries via phone and email.",
+        "Problem solved issues within the store to maintain business protocols and efficiently met customer demands and needs; promoted a positive attitude and provided guidance and motivation to the team."
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "VTS Distribution",
+      company_name: "Customer Service Representative",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "January 2015 - March 2020",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Operated delivery vehicle in a safe and efficient manner to ensure products were delivered safely.",
+        "Coordinated orders, calculated payments/tips, and addressed customer inquiries to achieve satisfaction of business partners and customers.",
+        "Communicated emerging and ongoing issues with team members and external clients in a clear and effective manner.",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "Quality Assurance Technologist",
+      company_name: "Quality Cheese Inc.",
       icon: shopify,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Responsible for R&D of new products and supervised product development prior to their release to customers.",
+        "Demonstrated strong analytical and quantitative skills by ensuring documentation was current and validated for potential audits or inspections.",
+        "Collaborated with other departments to create, verify, and update documentation and Standard Operating Procedures (SOPs), ensuring accuracy and completeness.",
+        "Conducted regular testing and maintenance on samples, adhering to established protocols and standards, prior to shipment to external vendors.",
+        "Conducted sample reviews and performed extensive testing to guarantee top-quality products.",
+        "Collaborated with Hazard Analysis Critical Control Point Coordinator and Manager to ensure facilities were current and compliant.",
       ],
     },
     {
       title: "Full stack Developer",
-      company_name: "Meta",
+      company_name: "University of Toronto Web Development Bootcamp",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "August 2022 - February 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
