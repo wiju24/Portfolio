@@ -15,10 +15,10 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    uoft,
+    shoppers,
+    vts,
+    quality,
     carrent,
     jobit,
     tripguide,
@@ -118,7 +118,7 @@ import {
     {
       title: "Customer Service/Cash Supervisor",
       company_name: "Shoppers Drug Mart",
-      icon: starbucks,
+      icon: shoppers,
       iconBg: "#383E56",
       date: "August 2011 - March 2020",
       points: [
@@ -132,7 +132,7 @@ import {
     {
       title: "VTS Distribution",
       company_name: "Customer Service Representative",
-      icon: tesla,
+      icon: vts,
       iconBg: "#E6DEDD",
       date: "January 2015 - March 2020",
       points: [
@@ -144,7 +144,7 @@ import {
     {
       title: "Quality Assurance Technologist",
       company_name: "Quality Cheese Inc.",
-      icon: shopify,
+      icon: quality,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
@@ -159,7 +159,7 @@ import {
     {
       title: "Full stack Developer",
       company_name: "University of Toronto Web Development Bootcamp",
-      icon: meta,
+      icon: uoft,
       iconBg: "#E6DEDD",
       date: "August 2022 - February 2023",
       points: [
